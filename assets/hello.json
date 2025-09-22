@@ -1,0 +1,11 @@
+{
+  "message": "Hello, World!",
+  "author": "JSON Example",
+  "version": 1.0,
+  "active": true,
+  "data": {
+    "type": "greeting",
+    "timestamp": "2025-09-21T20:38:00Z"
+  },
+  "tags": ["hello", "world", "json", "sample"]
+}
